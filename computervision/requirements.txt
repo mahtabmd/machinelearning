@@ -18,5 +18,5 @@ scikit-learn==0.19.1
 sip==4.19.8
 six==1.11.0
 sqlite==3.24.0
-tensorflow==1.10.0
+tensorflow==2.4.2
 opencv-contrib==3.3.1=py36_1
